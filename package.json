@@ -1,0 +1,15 @@
+{
+  "name": "nw-demo",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+  	"title": "Test Game",
+  	"toolbar": true,
+  	"width": 650,
+    "height": 700,
+  	"min_width": 650,
+    "min_height": 700,
+    "max_width": 650,
+    "max_height": 700
+  }
+}
